@@ -1,6 +1,5 @@
 # IT201
 ## Tej Vyas
-## IT 201 - 007
 
 In this class I created a painting app using Unity software and C# codes.
 The program creates chain objects selected by the user on the Unity software scene.
