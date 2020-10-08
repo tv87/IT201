@@ -6,4 +6,5 @@ The program creates chain objects selected by the user on the Unity software sce
 The user will be able to change shape and color of the object.
 The chain of objects will be cleared from the scene using Destroy() in the given time.
 The program includes use of different Vectors and Raycast.
+askvnijfsivief ivb
  
