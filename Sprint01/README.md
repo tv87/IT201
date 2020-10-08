@@ -1,9 +1,11 @@
 # IT201
 ## Tej Vyas
 
-In this class I created a painting app using Unity software and C# codes.
-The program creates chain objects selected by the user on the Unity software scene.
-The user will be able to change shape and color of the object.
-The chain of objects will be cleared from the scene using Destroy() in the given time.
-The program includes use of different Vectors and Raycast.
- 
+Link to the game:https://tejvyas.itch.io/sprint01complete
+
+Project Description:
+
+The Sprint01 Project is a game that allows user to choose between 3 objects: a sphere, a cube and a cylinder. The user can choose the color between Red, Blue and Green. User can
+also change the size of the objects. The program creates chain of selected shape objects when the mouse is clicked. The program also has 'Timed Destroy' option which destroy the 
+objects in few seconds and it also has 'Destroy All' option which clears out the screen. The program also include a display button on the top left corner which shows the mouse 
+position on the scene.
